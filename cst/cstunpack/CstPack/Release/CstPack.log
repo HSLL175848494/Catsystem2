@@ -1,6 +1,0 @@
-﻿  源.cpp
-C:\Users\Liu\source\repos\cstunpack\CstPack\源.cpp(46,36): warning C4267: “初始化”: 从“size_t”转换到“BYTE”，可能丢失数据
-C:\Users\Liu\source\repos\cstunpack\CstPack\源.cpp(153,27): warning C4018: “<”: 有符号/无符号不匹配
-源.obj : error LNK2001: 无法解析的外部符号 "public: __thiscall REdata::~REdata(void)" (??1REdata@@QAE@XZ)
-源.obj : error LNK2001: 无法解析的外部符号 "public: static class REdata * __cdecl ECways::dCompress_Zlib(unsigned char *,unsigned long,int)" (?dCompress_Zlib@ECways@@SAPAVREdata@@PAEKH@Z)
-C:\Users\Liu\source\repos\cstunpack\Release\CstPack.exe : fatal error LNK1120: 2 个无法解析的外部命令

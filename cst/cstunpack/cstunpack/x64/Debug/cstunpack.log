@@ -1,5 +1,0 @@
-﻿  源.cpp
-C:\Users\Liu\source\repos\cstunpack\cstunpack\源.cpp(59,36): warning C4267: “初始化”: 从“size_t”转换到“BYTE”，可能丢失数据
-C:\Users\Liu\source\repos\cstunpack\cstunpack\源.cpp(134,28): warning C4244: “=”: 从“DWORD”转换到“CHAR”，可能丢失数据
-C:\Users\Liu\source\repos\cstunpack\cstunpack\源.cpp(153,70): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
-  cstunpack.vcxproj -> C:\Users\Liu\source\repos\cstunpack\x64\Debug\Cstunpack.exe
